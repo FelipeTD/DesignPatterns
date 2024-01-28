@@ -1,2 +1,2 @@
 # DesignPatterns
-Projeto com explicação sobre diversos design patterns com exemplos
+Projeto com explicação sobre vários `Design Patterns` com exemplos
