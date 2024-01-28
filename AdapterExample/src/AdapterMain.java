@@ -6,7 +6,7 @@ import round.RoundHole;
 import round.RoundPeg;
 import square.SquarePeg;
 
-public class AdpterMain {
+public class AdapterMain {
 
     public static void main(String[] args) {
 
