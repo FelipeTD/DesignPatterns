@@ -51,6 +51,8 @@
   - Garante a criação de uma única instância de uma classe através de toda a aplicação, mantendo um ponto global de acesso ao seu objeto
 - Builder
   - Permite construir objetos complexos passo a passo
+- Factory Method
+  - Resolve o problema de criar objetos de produtos sem especificar suas classes concretas
 
 ## Estruturais
 - Adapter
