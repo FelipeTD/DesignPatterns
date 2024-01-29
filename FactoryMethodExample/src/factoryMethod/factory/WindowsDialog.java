@@ -1,7 +1,7 @@
-package factory;
+package factoryMethod.factory;
 
-import buttons.Button;
-import buttons.WindowsButton;
+import factoryMethod.buttons.Button;
+import factoryMethod.buttons.WindowsButton;
 
 public class WindowsDialog extends Dialog {
 

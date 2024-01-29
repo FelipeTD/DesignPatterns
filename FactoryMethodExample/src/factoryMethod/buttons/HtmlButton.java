@@ -1,4 +1,4 @@
-package buttons;
+package factoryMethod.buttons;
 
 public class HtmlButton implements Button {
 

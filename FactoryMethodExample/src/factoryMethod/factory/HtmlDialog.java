@@ -1,7 +1,7 @@
-package factory;
+package factoryMethod.factory;
 
-import buttons.Button;
-import buttons.HtmlButton;
+import factoryMethod.buttons.Button;
+import factoryMethod.buttons.HtmlButton;
 
 public class HtmlDialog extends Dialog {
 

@@ -1,6 +1,8 @@
-import factory.Dialog;
-import factory.HtmlDialog;
-import factory.WindowsDialog;
+package factoryMethod;
+
+import factoryMethod.factory.Dialog;
+import factoryMethod.factory.HtmlDialog;
+import factoryMethod.factory.WindowsDialog;
 
 public class FactoryMethodMain {
 

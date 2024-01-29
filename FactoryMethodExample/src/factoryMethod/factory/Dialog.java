@@ -1,6 +1,6 @@
-package factory;
+package factoryMethod.factory;
 
-import buttons.Button;
+import factoryMethod.buttons.Button;
 
 public abstract class Dialog {
 

@@ -53,6 +53,8 @@
   - Permite construir objetos complexos passo a passo
 - Factory Method
   - Resolve o problema de criar objetos de produtos sem especificar suas classes concretas
+- Abstract Factory
+  - Permite que crie família de objetos com uma única ‘interface’ sem que a classe concreta seja especificada
 
 ## Estruturais
 - Adapter
