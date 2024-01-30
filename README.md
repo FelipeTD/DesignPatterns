@@ -55,6 +55,8 @@
   - Resolve o problema de criar objetos de produtos sem especificar suas classes concretas
 - Abstract Factory
   - Permite que crie família de objetos com uma única ‘interface’ sem que a classe concreta seja especificada
+- Prototype
+  - Permite copiar objetos existentes sem fazer o seu código ficar dependente das suas classes
 
 ## Estruturais
 - Adapter
