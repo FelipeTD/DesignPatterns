@@ -61,6 +61,8 @@
 ## Estruturais
 - Adapter
   - Permitir que classes que não possuem uma ‘interface’ comum trabalhem de forma conjunta
+- Bridge
+  - Divide a lógica de negócio ou uma enorme classe em hierarquias de classe separadas que podem ser desenvolvidas independentemente
 
 ## Comportamentais
 - Strategy
