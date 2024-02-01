@@ -63,6 +63,8 @@
   - Permitir que classes que não possuem uma ‘interface’ comum trabalhem de forma conjunta
 - Bridge
   - Divide a lógica de negócio ou uma enorme classe em hierarquias de classe separadas que podem ser desenvolvidas independentemente
+- Decorator
+  - Permite que você acople novos comportamentos para objetos ao colocá-los em invólucros de objetos que contém os comportamentos
 
 ## Comportamentais
 - Strategy
