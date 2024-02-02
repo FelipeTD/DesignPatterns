@@ -65,6 +65,8 @@
   - Divide a lógica de negócio ou uma enorme classe em hierarquias de classe separadas que podem ser desenvolvidas independentemente
 - Decorator
   - Permite que você acople novos comportamentos para objetos ao colocá-los em invólucros de objetos que contém os comportamentos
+- Proxy
+  - Fornece um objeto que atua como um substituto para um objeto de serviço real usado pelo cliente
 
 ## Comportamentais
 - Strategy
