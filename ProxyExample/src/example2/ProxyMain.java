@@ -7,7 +7,7 @@ import example2.proxy.YouTubeCacheProxy;
 public class ProxyMain {
 
     public static void main(String[] args) {
-        
+
         YouTubeDownloader naiveDownloader = new YouTubeDownloader(new ThirdPartyYouTubeClass());
         YouTubeDownloader smartDownloader = new YouTubeDownloader(new YouTubeCacheProxy());
 

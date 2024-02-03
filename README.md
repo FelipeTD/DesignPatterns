@@ -67,6 +67,8 @@
   - Permite que você acople novos comportamentos para objetos ao colocá-los em invólucros de objetos que contém os comportamentos
 - Proxy
   - Fornece um objeto que atua como um substituto para um objeto de serviço real usado pelo cliente
+- Composite
+  - Permite compor objetos numa estrutura como uma árvore e trabalhar com eles como se fosse um objeto singular
 
 ## Comportamentais
 - Strategy
