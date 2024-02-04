@@ -69,6 +69,8 @@
   - Fornece um objeto que atua como um substituto para um objeto de serviço real usado pelo cliente
 - Composite
   - Permite compor objetos numa estrutura como uma árvore e trabalhar com eles como se fosse um objeto singular
+- Facade
+  - Fornece uma ‘interface’ simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes
 
 ## Comportamentais
 - Strategy
