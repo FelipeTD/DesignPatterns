@@ -71,6 +71,8 @@
   - Permite compor objetos numa estrutura como uma árvore e trabalhar com eles como se fosse um objeto singular
 - Facade
   - Fornece uma ‘interface’ simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes
+- Flyweight
+  - Permite que os programas suportem muitos objetos, mantendo baixo o consumo de memória
 
 ## Comportamentais
 - Strategy
