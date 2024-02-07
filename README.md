@@ -79,3 +79,5 @@
   - Quando precisa encapsular algoritmos similares para tomar alguma decisão
 - Chain of Responsability
   - Permite que passe pedidos por uma corrente de handlers
+- Command
+  - Converte solicitações ou operações simples em objetos
