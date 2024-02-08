@@ -81,3 +81,5 @@
   - Permite que passe pedidos por uma corrente de handlers
 - Command
   - Converte solicitações ou operações simples em objetos
+- Iterator
+  - Permite a passagem sequencial através de uma estrutura de dados complexa sem expor seus detalhes internos
