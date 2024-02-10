@@ -85,3 +85,5 @@
   - Permite a passagem sequencial através de uma estrutura de dados complexa sem expor os seus detalhes internos
 - Mediator
   - Reduz o acoplamento entre os componentes de um programa
+- Memento
+  - Permite tirar um "retrato" do estado de um objeto e restaurá-lo no futuro
