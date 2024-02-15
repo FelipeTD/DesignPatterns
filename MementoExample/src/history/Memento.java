@@ -1,6 +1,6 @@
 package history;
 
-import editor.EditorMemento;
+import mementoEditor.EditorMemento;
 
 public class Memento {
 

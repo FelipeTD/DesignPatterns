@@ -1,6 +1,6 @@
 package commands;
 
-import editor.EditorMemento;
+import mementoEditor.EditorMemento;
 import shapes.ShapeMemento;
 
 public class MoveCommand implements Command {

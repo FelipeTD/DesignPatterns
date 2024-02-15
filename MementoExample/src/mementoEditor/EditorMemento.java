@@ -1,4 +1,4 @@
-package editor;
+package mementoEditor;
 
 import commands.Command;
 import history.History;

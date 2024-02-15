@@ -1,4 +1,4 @@
-import editor.EditorMemento;
+import mementoEditor.EditorMemento;
 import shapes.CircleMemento;
 import shapes.CompoundShapeMemento;
 import shapes.DotMemento;

@@ -1,4 +1,4 @@
-package editor;
+package mementoEditor;
 
 import commands.ColorCommand;
 import commands.MoveCommand;

@@ -87,3 +87,5 @@
   - Reduz o acoplamento entre os componentes de um programa
 - Memento
   - Permite tirar um "retrato" do estado de um objeto e restaurá-lo no futuro
+- Observer
+  - Permite que um objeto notifique outros objetos sobre alterações em seu estado
