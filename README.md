@@ -88,4 +88,6 @@
 - Memento
   - Permite tirar um "retrato" do estado de um objeto e restaurá-lo no futuro
 - Observer
-  - Permite que um objeto notifique outros objetos sobre alterações em seu estado
+  - Permite que um objeto notifique outros objetos sobre alterações no seu estado
+- State
+  - Permite que um objeto altere o comportamento quando o seu estado interno for alterado
