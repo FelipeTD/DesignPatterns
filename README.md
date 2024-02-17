@@ -93,4 +93,6 @@
   - Permite que um objeto altere o comportamento quando o seu estado interno for alterado
 - Template Method
   - permite definir o esqueleto de um algoritmo numa classe base
-    - permite que as subclasses substituam as etapas sem alterar a estrutura geral do algoritmo
+    - permite que as subclasses substituam as etapas sem alterar a estrutura do algoritmo
+- Visitor
+  - permite adicionar novos comportamentos à hierarquia de classes existente sem alterar nenhum código existente 
