@@ -91,3 +91,6 @@
   - Permite que um objeto notifique outros objetos sobre alterações no seu estado
 - State
   - Permite que um objeto altere o comportamento quando o seu estado interno for alterado
+- Template Method
+  - permite definir o esqueleto de um algoritmo numa classe base
+    - permite que as subclasses substituam as etapas sem alterar a estrutura geral do algoritmo
