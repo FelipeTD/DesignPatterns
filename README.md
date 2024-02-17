@@ -95,4 +95,6 @@
   - permite definir o esqueleto de um algoritmo numa classe base
     - permite que as subclasses substituam as etapas sem alterar a estrutura do algoritmo
 - Visitor
-  - permite adicionar novos comportamentos à hierarquia de classes existente sem alterar nenhum código existente 
+  - permite adicionar novos comportamentos à hierarquia de classes existente sem alterar nenhum código existente
+- Interpreter
+  - Utilizado para interpretar comandos para criar compiladores
